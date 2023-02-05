@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\bin\Debug\netcoreapp3.1\HybridInheritence.exe
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\bin\Debug\netcoreapp3.1\HybridInheritence.deps.json
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\bin\Debug\netcoreapp3.1\HybridInheritence.runtimeconfig.json
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\bin\Debug\netcoreapp3.1\HybridInheritence.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\bin\Debug\netcoreapp3.1\HybridInheritence.dll
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\bin\Debug\netcoreapp3.1\HybridInheritence.pdb
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.dll
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.pdb
+C:\Users\Admin\source\repos\Inheritence\HybridInheritence\obj\Debug\netcoreapp3.1\HybridInheritence.genruntimeconfig.cache
